@@ -1,0 +1,19 @@
+BRANDS is a unique cryptocurrency that aims to address the pressing concerns of Ethereum while advocating for decentralized governance. BRANDs development team recognizes the need for immediate action in the following areas:
+
+- Enhancing scalability by employing both on-chain and off-chain solutions to increase network capacity.
+- Eliminating the difficulty bomb, which burdens miners with the obligation to accept future upgrades, thus alleviating their pressure..
+- Implementing measures to resist ASIC mining, thus promoting a fair and decentralized mining ecosystem.
+- Optimizing gas fees, reducing costs and improving the overall efficiency of transactions on the network.
+- Fostering currency-agnosticism to enable the integration of various cryptocurrencies within the network.
+- Creating additional incentives for full nodes, encouraging more active participation and support for the network.
+
+SPECS
+Algorithm:ProgPow
+Block Time: 1 minute
+Block Reward: 3000 BRN
+Total Coin Supply: <21 Billion
+Block Size: 2MB (may increase in the future)
+Pre-mine: No
+Founders Reward: No
+ICO: No
+Masternodes: No
